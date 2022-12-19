@@ -1,6 +1,13 @@
-﻿namespace IntegraBrasilApi.Interfaces
+﻿using IntegraBrasilApi.Dtos;
+using IntegraBrasilApi.Models;
+
+namespace IntegraBrasilApi.Interfaces
 {
     public interface IBrasilApi
     {
+        Task<ResponseGenerico<EnderecoModel>> BuscarEnderecoPorCep(string cep);
+        Task<ResponseGenerico<List<BancoModel>>> BuscarTodosBanco();
+        Task<ResponseGenerico<BancoModel>> BuscarBanco();
+
     }
 }
