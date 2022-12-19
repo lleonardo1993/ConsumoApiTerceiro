@@ -31,3 +31,5 @@ C:\Users\Win10\Desktop\ProjetosC#\IntegraBrasilApi\obj\Debug\net7.0\refint\Integ
 C:\Users\Win10\Desktop\ProjetosC#\IntegraBrasilApi\obj\Debug\net7.0\IntegraBrasilApi.pdb
 C:\Users\Win10\Desktop\ProjetosC#\IntegraBrasilApi\obj\Debug\net7.0\IntegraBrasilApi.genruntimeconfig.cache
 C:\Users\Win10\Desktop\ProjetosC#\IntegraBrasilApi\obj\Debug\net7.0\ref\IntegraBrasilApi.dll
+C:\Users\Win10\Desktop\ProjetosC#\IntegraBrasilApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Win10\Desktop\ProjetosC#\IntegraBrasilApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
