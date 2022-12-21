@@ -17,9 +17,6 @@ namespace IntegraBrasilApi.Services
 
         }
 
-
-
-
         public async Task<ResponseGenerico<EnderecoResponse>> BuscarEndereco(string cep)
         {
             var endereco = await _brasilApi.BuscarEnderecoPorCep(cep);

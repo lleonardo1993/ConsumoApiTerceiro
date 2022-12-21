@@ -7,7 +7,7 @@ namespace IntegraBrasilApi.Interfaces
     {
         Task<ResponseGenerico<EnderecoModel>> BuscarEnderecoPorCep(string cep);
         Task<ResponseGenerico<List<BancoModel>>> BuscarTodosBanco();
-        Task<ResponseGenerico<BancoModel>> BuscarBanco();
+        Task<ResponseGenerico<BancoModel>> BuscarBanco(string codigoBanco);
 
     }
 }
